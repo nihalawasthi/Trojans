@@ -1,4 +1,3 @@
-@echo off
 powershell -Command "notepad"
 while :
 do
